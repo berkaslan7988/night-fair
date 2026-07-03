@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Night Fair · Gece Panayırı — 64 Mini Games</title>
+<meta name="description" content="A pocket arcade with 64 mini games. Free, no install, works in your browser. / 64 mini oyunluk cep arcade salonu.">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎡</text></svg>">
+</head>
+<body>
+<div class="wrap landing">
+  <div class="bulbs"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div>
+  <h1>NIGHT FAIR · GECE PANAYIRI</h1>
+  <p class="sub">64 mini games · one arcade / 64 mini oyun · tek salon</p>
+  <div class="lang-cards">
+    <a class="lang-card" href="tr/index.html" onclick="try{localStorage.setItem('nf_lang','\"tr\"')}catch(e){}">
+      <span class="flag">🇹🇷</span>Türkçe
+      <span class="small">Gece Panayırı'na gir</span>
+    </a>
+    <a class="lang-card" href="en/index.html" onclick="try{localStorage.setItem('nf_lang','\"en\"')}catch(e){}">
+      <span class="flag">🇬🇧</span>English
+      <span class="small">Enter the Night Fair</span>
+    </a>
+  </div>
+</div>
+<script>
+/* Remembered language? Go straight in (unless ?choose is present). */
+(function(){
+  try{
+    if (location.search.indexOf('choose') !== -1) return;
+    var lang = JSON.parse(localStorage.getItem('nf_lang') || 'null');
+    if (lang === 'tr' || lang === 'en') location.replace(lang + '/index.html');
+  }catch(e){}
+})();
+</script>
+</body>
+</html>
