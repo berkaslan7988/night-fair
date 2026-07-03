@@ -1,6 +1,6 @@
 # 🎡 Night Fair · Gece Panayırı
 
-**EN** — A pocket arcade with **64 mini games** in your browser. No install, no build step, no dependencies — pure HTML/CSS/JS. Fully playable in **English** and **Turkish**.
+**EN** — A pocket arcade with **64 mini games** in your browser. No install, no build step, no dependencies — pure HTML/CSS/JS. Fully playable in **English** and **Turkish**
 
 **TR** — Tarayıcıda çalışan **64 mini oyunluk** cep arcade salonu. Kurulum yok, build yok, bağımlılık yok — saf HTML/CSS/JS. **Türkçe** ve **İngilizce** tam sürüm.
 
