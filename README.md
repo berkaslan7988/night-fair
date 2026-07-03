@@ -43,7 +43,7 @@ Both language folders share the same game code; each page loads only its own dic
 
 ## Run locally / Yerelde çalıştır
 
-Just open `index.html` in a browser. / `index.html` dosyasını tarayıcıda aç, hepsi bu.
+Just open `index.html` in a browser. / `index.html` dosyasını tarayıcıda aç.
 
 ## License
 
