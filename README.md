@@ -45,13 +45,6 @@ Both language folders share the same game code; each page loads only its own dic
 
 Just open `index.html` in a browser. / `index.html` dosyasını tarayıcıda aç, hepsi bu.
 
-## Deploy (GitHub Pages)
-
-1. Push this repo to GitHub.
-2. **Settings → Pages → Source: `main` / root**.
-3. Your arcade is live at [berkaslan7988.github.io/night-fair](https://berkaslan7988.github.io/night-fair/).
-
-
 ## License
 
 MIT
