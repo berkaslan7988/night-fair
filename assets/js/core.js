@@ -97,6 +97,18 @@ function sfx(kind) {
     });
   } catch (e) {}
 }
+/* iOS Safari: AudioContext can only be unlocked inside a real, synchronous
+   user gesture. Some sounds in-game are triggered later (timers, animation
+   frames, swipe/drag logic) which iOS does NOT count as a gesture, so the
+   context can stay "suspended" forever if it was never opened directly
+   inside a tap/click. This grabs the very first touch/click anywhere on
+   the page and uses it to create + resume the context immediately. */
+document.addEventListener('pointerdown', function unlockAudio() {
+  try {
+    _ac = _ac || new (window.AudioContext || window.webkitAudioContext)();
+    if (_ac.state === 'suspended') _ac.resume();
+  } catch (e) {}
+}, { once: true });
 
 /* ---------- toast ---------- */
 var _toastBox = null;
