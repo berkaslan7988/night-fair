@@ -4,9 +4,9 @@
 
 **EN** — A pocket arcade with **64 mini games** in your browser. No install, no build step, no dependencies — pure HTML/CSS/JS. Fully playable in **English** and **Turkish**
 
-**TR** — Tarayıcıda çalışan **64 mini oyunluk** cep arcade salonu. Kurulum yok, build yok, bağımlılık yok — saf HTML/CSS/JS. **Türkçe** ve **İngilizce** tam sürüm.
+**TR** — Tarayıcıda çalışan **64 mini oyunluk** cep arcade salonu. Kurulum yok, build yok, bağımlılık yok — saf HTML/CSS/JS. **Türkçe** ve **İngilizce** tam sürüm
 
-🎮 **Play / Oyna:** [berkaslan7988.github.io/night-fair](https://berkaslan7988.github.io/night-fair/) — or just open `index.html`.
+🎮 **Play / Oyna:** [berkaslan7988.github.io/night-fair](https://berkaslan7988.github.io/night-fair/) — or just open `index.html`
 
 ## Games / Oyunlar
 
