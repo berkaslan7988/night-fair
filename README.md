@@ -1,5 +1,7 @@
 # 🎡 Night Fair · Gece Panayırı
 
+<img width="1845" height="907" alt="resim" src="https://github.com/user-attachments/assets/76851306-3b8d-423c-bcd0-40ebd4c0eb75" />
+
 **EN** — A pocket arcade with **64 mini games** in your browser. No install, no build step, no dependencies — pure HTML/CSS/JS. Fully playable in **English** and **Turkish**
 
 **TR** — Tarayıcıda çalışan **64 mini oyunluk** cep arcade salonu. Kurulum yok, build yok, bağımlılık yok — saf HTML/CSS/JS. **Türkçe** ve **İngilizce** tam sürüm.
