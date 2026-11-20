@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 250" width="980" height="250" role="img" aria-labelledby="title desc">
+<title id="title">A night at the fair</title>
+<desc id="desc">Pick one of 68 games, play it, get a results ticket with tickets and punched goals, spend the tickets at the Prize Booth, then pick the next game.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8b8b93"/></marker></defs>
+
+  <g>
+    <path d="M19.0 24H46.0a7 7 0 0 0 14 0H211.0a12 12 0 0 1 12 12V116a12 12 0 0 1 -12 12H60.0a7 7 0 0 0 -14 0H19.0a12 12 0 0 1 -12 -12V36a12 12 0 0 1 12 -12z" fill="#ffffff" stroke="#e0ded8" stroke-width="1.5"/>
+    <path d="M19.0 24.75H46.0a7 7 0 0 0 0 0V127.25H19.0a11.25 11.25 0 0 1 -11.25 -11.25V36a11.25 11.25 0 0 1 11.25 -11.25z" fill="#d6246a" opacity="0.16"/>
+    <line x1="53.0" y1="35" x2="53.0" y2="117" stroke="#e0ded8" stroke-width="2" stroke-dasharray="3 4"/>
+    <text x="30.0" y="58" text-anchor="middle" font-family="'Cascadia Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="17" font-weight="700" fill="#d6246a">01</text>
+    <text x="71.0" y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#161618">Pick a booth</text>
+    <text x="71.0" y="86" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5d5d65">68 games in 7 kinds,</text>
+    <text x="71.0" y="104" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5d5d65">or tonight's special</text>
+  </g>
+<line x1="229.0" y1="76.0" x2="251.0" y2="76.0" stroke="#8b8b93" stroke-width="2" marker-end="url(#arr)"/>
+
+  <g>
+    <path d="M269.0 24H296.0a7 7 0 0 0 14 0H461.0a12 12 0 0 1 12 12V116a12 12 0 0 1 -12 12H310.0a7 7 0 0 0 -14 0H269.0a12 12 0 0 1 -12 -12V36a12 12 0 0 1 12 -12z" fill="#ffffff" stroke="#e0ded8" stroke-width="1.5"/>
+    <path d="M269.0 24.75H296.0a7 7 0 0 0 0 0V127.25H269.0a11.25 11.25 0 0 1 -11.25 -11.25V36a11.25 11.25 0 0 1 11.25 -11.25z" fill="#2563d9" opacity="0.16"/>
+    <line x1="303.0" y1="35" x2="303.0" y2="117" stroke="#e0ded8" stroke-width="2" stroke-dasharray="3 4"/>
+    <text x="280.0" y="58" text-anchor="middle" font-family="'Cascadia Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="17" font-weight="700" fill="#2563d9">02</text>
+    <text x="321.0" y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#161618">Play</text>
+    <text x="321.0" y="86" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5d5d65">Pause any time. English</text>
+    <text x="321.0" y="104" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5d5d65">or Turkish, light or dark</text>
+  </g>
+<line x1="479.0" y1="76.0" x2="501.0" y2="76.0" stroke="#8b8b93" stroke-width="2" marker-end="url(#arr)"/>
+
+  <g>
+    <path d="M519.0 24H546.0a7 7 0 0 0 14 0H711.0a12 12 0 0 1 12 12V116a12 12 0 0 1 -12 12H560.0a7 7 0 0 0 -14 0H519.0a12 12 0 0 1 -12 -12V36a12 12 0 0 1 12 -12z" fill="#ffffff" stroke="#e0ded8" stroke-width="1.5"/>
+    <path d="M519.0 24.75H546.0a7 7 0 0 0 0 0V127.25H519.0a11.25 11.25 0 0 1 -11.25 -11.25V36a11.25 11.25 0 0 1 11.25 -11.25z" fill="#15895a" opacity="0.16"/>
+    <line x1="553.0" y1="35" x2="553.0" y2="117" stroke="#e0ded8" stroke-width="2" stroke-dasharray="3 4"/>
+    <text x="530.0" y="58" text-anchor="middle" font-family="'Cascadia Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="17" font-weight="700" fill="#15895a">03</text>
+    <text x="571.0" y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#161618">Get your ticket</text>
+    <text x="571.0" y="86" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5d5d65">Score, best, tickets won</text>
+    <text x="571.0" y="104" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5d5d65">and goals punched</text>
+  </g>
+<line x1="729.0" y1="76.0" x2="751.0" y2="76.0" stroke="#8b8b93" stroke-width="2" marker-end="url(#arr)"/>
+
+  <g>
+    <path d="M769.0 24H796.0a7 7 0 0 0 14 0H961.0a12 12 0 0 1 12 12V116a12 12 0 0 1 -12 12H810.0a7 7 0 0 0 -14 0H769.0a12 12 0 0 1 -12 -12V36a12 12 0 0 1 12 -12z" fill="#ffffff" stroke="#e0ded8" stroke-width="1.5"/>
+    <path d="M769.0 24.75H796.0a7 7 0 0 0 0 0V127.25H769.0a11.25 11.25 0 0 1 -11.25 -11.25V36a11.25 11.25 0 0 1 11.25 -11.25z" fill="#b85808" opacity="0.16"/>
+    <line x1="803.0" y1="35" x2="803.0" y2="117" stroke="#e0ded8" stroke-width="2" stroke-dasharray="3 4"/>
+    <text x="780.0" y="58" text-anchor="middle" font-family="'Cascadia Mono', 'SF Mono', Consolas, 'Courier New', monospace" font-size="17" font-weight="700" fill="#b85808">04</text>
+    <text x="821.0" y="60" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#161618">Spend tickets</text>
+    <text x="821.0" y="86" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5d5d65">At the Prize Booth, on</text>
+    <text x="821.0" y="104" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5d5d65">accents, bulbs and skins</text>
+  </g>
+<path d="M865.0 140V184a14 14 0 0 1 -14 14H129.0a14 14 0 0 1 -14 -14V146" fill="none" stroke="#8b8b93" stroke-width="2" stroke-dasharray="6 6" marker-end="url(#arr)"/>
+<rect x="398.0" y="185" width="184" height="26" rx="13" fill="#f6f5f2" stroke="#e0ded8"/>
+<text x="490.0" y="202.5" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#5d5d65">new look, next game</text>
+</svg>
